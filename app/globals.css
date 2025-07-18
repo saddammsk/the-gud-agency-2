@@ -116,4 +116,7 @@ html {
   }
 }.data-focus\:bg-gray-100[data-focus] {
     background-color: transparent;
+}.group:hover .card-body {
+  opacity: 1;
+  visibility: visible;
 }
